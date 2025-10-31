@@ -1,4 +1,19 @@
 # Привет 👋
+
 Какие-то картинки из интернета:<br>
 
-<img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" width=50/> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width=57/> <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png?f=webp" width=58/> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width=57/> <img src="https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png" width=51/> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width=50/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Svelte_logo_by_gengns.svg/1028px-Svelte_logo_by_gengns.svg.png?20191219134736" width=50> <img src="https://tauri-apps.gallerycdn.vsassets.io/extensions/tauri-apps/tauri-vscode/0.2.6/1679072733881/Microsoft.VisualStudio.Services.Icons.Default" width=60> <img src="https://cdn.coursehunter.net/category/vite.png" width=50> <img src="https://preview.redd.it/81nwobjayd181.png?width=512&format=png&auto=webp&s=027cac2b3ddd6f7b3f5e60a783706d1d0e8151ec" width=56/> <img src="https://cdn-icons-png.freepik.com/512/5968/5968282.png" width=56/>
+<img width=50 height=50 src=assets/js.png>
+<img width=50 height=50 src=assets/ts.png>
+<img width=50 height=50 src=assets/python.png>
+<img width=50 height=50 src=assets/cpp.png>
+<img width=45 height=50 src=assets/cs.png>
+
+Еще картинки:
+
+<img width=50 height=50 src=assets/docker.png>
+<img width=50 height=50 src=assets/k8s.png>
+<img width=50 height=50 src=assets/react.png>
+<img width=50 height=50 src=assets/svelte.png>
+<img width=50 height=50 src=assets/tauri.png>
+<img width=50 height=50 src=assets/vite.png>
+<img width=50 height=50 src=assets/unity.png>
